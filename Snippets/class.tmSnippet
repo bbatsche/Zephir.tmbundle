@@ -1,12 +1,23 @@
-<snippet>
-    <content><![CDATA[class ${1:name}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>class ${1:name}${2: extends ${3:parentClass}}
 {
-    public function __construct(${2:arguments})
-    {
-
-    }
-}]]></content>
-    <tabTrigger>class</tabTrigger>
-    <description>Zephir: class</description>
-    <scope>source.zep</scope>
-</snippet>
+	$4
+	public function ${5:__construct}(${6:arguments})
+	{
+		${0:// code...}
+	}
+}</string>
+	<key>tabTrigger</key>
+	<string>class</string>
+	<key>name</key>
+	<string>Zephir: class</string>
+	<key>scope</key>
+	<string>source.zephir</string>
+	<key>uuid</key>
+	<string>9D994058-51F6-3419-BEC8-8D3F3AE431B8</string>
+</dict>
+</plist>
