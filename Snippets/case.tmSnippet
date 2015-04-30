@@ -4,12 +4,12 @@
 <dict>
 	<key>content</key>
 	<string>case ${1:value}:
-	${2:// body}
+	${0:// body}
 	break;</string>
 	<key>tabTrigger</key>
 	<string>case</string>
 	<key>name</key>
-	<string>case ...</string>
+	<string>case...</string>
 	<key>scope</key>
 	<string>source.zephir</string>
 	<key>uuid</key>

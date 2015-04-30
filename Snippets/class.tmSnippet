@@ -14,7 +14,7 @@
 	<key>tabTrigger</key>
 	<string>class</string>
 	<key>name</key>
-	<string>Zephir: class</string>
+	<string>class...</string>
 	<key>scope</key>
 	<string>source.zephir</string>
 	<key>uuid</key>
