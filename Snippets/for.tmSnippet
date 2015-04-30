@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>for ${1:key}${2:, ${3:value}} in ${4:array} {
-	${0:// body}
+	${0:// body...}
 }</string>
 	<key>tabTrigger</key>
 	<string>for</string>

@@ -8,7 +8,7 @@
 	$4
 	public function ${5:__construct}(${6:arguments})
 	{
-		${0:// code...}
+		${0:// body...}
 	}
 }</string>
 	<key>tabTrigger</key>
