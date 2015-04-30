@@ -1,9 +1,19 @@
-<snippet>
-    <content><![CDATA[${1:public} function ${2:name}(${3:arguments}) ${4:-> ${5:void}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:public|protected|private} function ${2:name}(${3:arguments}) ${4:-> ${5:void}}
 {
-    ${6:body}
-}]]></content>
-    <tabTrigger>function</tabTrigger>
-    <description>Zephir: function</description>
-    <scope>source.zep</scope>
-</snippet>
+	${0:// body...}
+}</string>
+	<key>tabTrigger</key>
+	<string>fun</string>
+	<key>name</key>
+	<string>function...</string>
+	<key>scope</key>
+	<string>source.zephir</string>
+	<key>uuid</key>
+	<string>F3D72E37-CC37-337F-97A8-B2F2A374A746</string>
+</dict>
+</plist>
