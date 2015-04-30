@@ -1,9 +1,18 @@
-<snippet>
-    <content><![CDATA[case ${1:value}:
-    ${2:body}
-    break;
-}]]></content>
-    <tabTrigger>case</tabTrigger>
-    <description>Zephir: case statement</description>
-    <scope>source.zep</scope>
-</snippet>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>case ${1:value}:
+	${2:// body}
+	break;</string>
+	<key>tabTrigger</key>
+	<string>case</string>
+	<key>name</key>
+	<string>case ...</string>
+	<key>scope</key>
+	<string>source.zephir</string>
+	<key>uuid</key>
+	<string>CFD87851-A87D-389F-9A7A-41F2199D34BC</string>
+</dict>
+</plist>
