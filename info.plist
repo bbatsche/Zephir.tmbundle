@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>onegyrol84@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Ben Batschelet</string>
+	<key>description</key>
+	<string>Syntax highlighting and snippets for Zephir</string>
+	<key>name</key>
+	<string>Zephir</string>
+	<key>uuid</key>
+	<string>1B70BC37-6559-42F3-99D5-E3E13F5EB63F</string>
+</dict>
+</plist>
