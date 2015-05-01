@@ -12,5 +12,21 @@
 	<string>Zephir</string>
 	<key>uuid</key>
 	<string>1B70BC37-6559-42F3-99D5-E3E13F5EB63F</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>9D994058-51F6-3419-BEC8-8D3F3AE431B8</string>
+			<string>F3D72E37-CC37-337F-97A8-B2F2A374A746</string>
+			<string>------------------------------------</string>
+			<string>29B0E3CC-A4B7-3EB2-BBAA-0453C8005858</string>
+			<string>------------------------------------</string>
+			<string>A48FF001-2FB0-330B-9031-8EFA5912686A</string>
+			<string>5293CD53-0763-35F8-98E7-0F153309D33B</string>
+			<string>------------------------------------</string>
+			<string>AFCC954A-C4D3-3E34-B9D3-92AE032BCE9C</string>
+			<string>CFD87851-A87D-389F-9A7A-41F2199D34BC</string>
+		</array>
+	</dict>
 </dict>
 </plist>
