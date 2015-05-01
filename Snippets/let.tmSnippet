@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>let ${1:var} = ${2:value};</string>
+	<key>tabTrigger</key>
+	<string>let</string>
+	<key>name</key>
+	<string>let...</string>
+	<key>scope</key>
+	<string>source.zephir</string>
+	<key>uuid</key>
+	<string>8C7604E0-80C9-3734-B23E-EFF6BAADA6F8</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string> else {
+	${0:// body...}
+}</string>
+	<key>tabTrigger</key>
+	<string>else</string>
+	<key>name</key>
+	<string>else...</string>
+	<key>scope</key>
+	<string>source.zephir</string>
+	<key>uuid</key>
+	<string>2E6F11CC-97C8-3385-A3F3-C6E4E3186F06</string>
+</dict>
+</plist>

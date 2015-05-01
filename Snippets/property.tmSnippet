@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:protected} ${2:property}${3: = ${4:value}} {
+	${5:get}${6:, set}${7:, toString}
+};</string>
+	<key>tabTrigger</key>
+	<string>prop</string>
+	<key>name</key>
+	<string>property...</string>
+	<key>scope</key>
+	<string>source.zephir</string>
+	<key>uuid</key>
+	<string>1969D216-D2C2-3051-BBD9-E3E4FC2BE946</string>
+</dict>
+</plist>
