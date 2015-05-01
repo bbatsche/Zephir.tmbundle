@@ -1,12 +1,22 @@
-<snippet>
-    <content><![CDATA[switch ${1:statement} {
-    case ${2:value}:
-        ${3:body}
-        break;
-    default ${4:value}
-        ${5:body}
-}]]></content>
-    <tabTrigger>switch</tabTrigger>
-    <description>Zephir: switch statement</description>
-    <scope>source.zep</scope>
-</snippet>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>switch ${1:test} {
+	case ${2:value}:
+		${3:// body...}
+		break;
+	default:
+		${4:// body...}
+}</string>
+	<key>tabTrigger</key>
+	<string>switch</string>
+	<key>name</key>
+	<string>switch...</string>
+	<key>scope</key>
+	<string>source.zephir</string>
+	<key>uuid</key>
+	<string>AFCC954A-C4D3-3E34-B9D3-92AE032BCE9C</string>
+</dict>
+</plist>

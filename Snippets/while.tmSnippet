@@ -1,8 +1,18 @@
-<snippet>
-    <content><![CDATA[while ${1:statement} {
-    ${2:body}
-}]]></content>
-    <tabTrigger>while</tabTrigger>
-    <description>Zephir: while statement</description>
-    <scope>source.zep</scope>
-</snippet>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>while ${1:condition} {
+	${0:// body...}
+}</string>
+	<key>tabTrigger</key>
+	<string>while</string>
+	<key>name</key>
+	<string>while...</string>
+	<key>scope</key>
+	<string>source.zephir</string>
+	<key>uuid</key>
+	<string>5293CD53-0763-35F8-98E7-0F153309D33B</string>
+</dict>
+</plist>
