@@ -35,5 +35,12 @@
 			<string>2B95DC53-C362-3E67-9E07-D80B3B99265A</string>
 		</array>
 	</dict>
+	<key>source</key>
+	<dict>
+		<key>method</key>
+		<string>git</string>
+		<key>url</key>
+		<string>git@github.com:bbatsche/Zephir.tmbundle.git</string>
+	</dict>
 </dict>
 </plist>
